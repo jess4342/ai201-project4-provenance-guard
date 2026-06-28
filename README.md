@@ -4,6 +4,11 @@ A backend system for classifying submitted creative content as human- or AI-auth
 
 ---
 
+## Demo Video
+
+**[▶️ Watch the demo (ProvenanceGuardDemo.mp4)](ProvenanceGuardDemo.mp4)** 
+---
+
 ## Detection Signals
 
 The production pipeline uses an ensemble of 3 distinct signals:
